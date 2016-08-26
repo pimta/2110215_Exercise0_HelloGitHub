@@ -31,7 +31,7 @@ public class Hello {
 			}
 		}while(isSwap);
 		
-		return array;
+		return array; 
 	}
 	
 	public static String arrayToString(String title,int[] array){
