@@ -29,7 +29,7 @@ public class Hello {
 					isSwap = true;
 				}
 			}
-		}while(isSwap);
+		}while (isSwap);
 		
 		return array; 
 	}
